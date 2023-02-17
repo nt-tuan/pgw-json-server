@@ -1,0 +1,59 @@
+{
+  "vcb-sms": [
+    {
+      "id": "1",
+      "smsId": "24124",
+      "content": "SD TK 0071000613265 +1,554,000VND LUC 10-02-2023 12:14:50 SD 690,991,968VND. REF 903114.100223.121443.Y4979921399",
+      "referenceId": "Y407000021399",
+      "amount": 1554000,
+      "referenceAmount": 1600000,
+      "smsType": "Hocphi",
+      "status": "Khởi tạo",
+      "note": "SMS k xác định"
+    },
+    {
+      "id": "2",
+      "smsId": "24125",
+      "content": "SD TK 0071000613265 +1,554,000VND LUC 10-02-2023 12:14:50 SD 690,991,968VND. REF 903114.100223.121443.Y4979921399",
+      "referenceId": "Y407000021400",
+      "amount": 1554000,
+      "referenceAmount": 1600000,
+      "smsType": "Hocphi",
+      "status": "Thành công",
+      "note": ""
+    },
+    {
+      "id": "3",
+      "smsId": "24126",
+      "content": "SD TK 0071000613265 +1,554,000VND LUC 10-02-2023 12:14:50 SD 690,991,968VND. REF 903114.100223.121443.Y4979921399",
+      "referenceId": "Y407000021401",
+      "amount": 1554000,
+      "referenceAmount": 1600000,
+      "smsType": "Hocphi",
+      "status": "Khởi tạo",
+      "note": "SMS k xác định"
+    },
+    {
+      "id": "4",
+      "smsId": "24127",
+      "content": "SD TK 0071000613265 +1,554,000VND LUC 10-02-2023 12:14:50 SD 690,991,968VND. REF 903114.100223.121443.Y4979921399",
+      "referenceId": "Y407000021402",
+      "amount": 1554000,
+      "referenceAmount": 1600000,
+      "smsType": "Hocphi",
+      "status": "Thành công",
+      "note": "SMS k xác định"
+    },
+    {
+      "id": "5",
+      "smsId": "24128",
+      "content": "SD TK 0071000613265 +1,554,000VND LUC 10-02-2023 12:14:50 SD 690,991,968VND. REF 903114.100223.121443.Y4979921399",
+      "referenceId": "Y407000021403",
+      "amount": 1554000,
+      "referenceAmount": 1600000,
+      "smsType": "Hocphi",
+      "status": "Thành công",
+      "note": "SMS k xác định"
+    }
+  ]
+}
