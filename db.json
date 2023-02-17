@@ -59,7 +59,7 @@
   "transactions": [
     {
       "id": "1",
-      "referenceId": "Y407000021399",
+      "fee": 716000,
       "amount": 1554000,
       "studentCode": "HS0000001",
       "studentName": "Huynh Van Y Chang",
@@ -70,7 +70,7 @@
     },
     {
       "id": "2",
-      "referenceId": "Y407000021399",
+      "fee": 716000,
       "amount": 1554000,
       "studentCode": "HS0000001",
       "studentName": "Huynh Van Y Chang",
@@ -81,7 +81,7 @@
     },
     {
       "id": "3",
-      "referenceId": "Y407000021399",
+      "fee": 716000,
       "amount": 1554000,
       "studentCode": "HS0000001",
       "studentName": "Huynh Van Y Chang",
@@ -92,7 +92,7 @@
     },
     {
       "id": "4",
-      "referenceId": "Y407000021399",
+      "fee": 716000,
       "amount": 1554000,
       "studentCode": "HS0000001",
       "studentName": "Huynh Van Y Chang",
@@ -103,7 +103,7 @@
     },
     {
       "id": "5",
-      "referenceId": "Y407000021399",
+      "fee": 716000,
       "amount": 1554000,
       "studentCode": "HS0000001",
       "studentName": "Huynh Van Y Chang",
@@ -114,7 +114,7 @@
     },
     {
       "id": "6",
-      "referenceId": "Y407000021399",
+      "fee": 716000,
       "amount": 1554000,
       "studentCode": "HS0000001",
       "studentName": "Huynh Van Y Chang",
