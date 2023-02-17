@@ -55,5 +55,73 @@
       "status": "Thành công",
       "note": "SMS k xác định"
     }
+  ],
+  "transactions": [
+    {
+      "id": "1",
+      "referenceId": "Y407000021399",
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "2",
+      "referenceId": "Y407000021399",
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "3",
+      "referenceId": "Y407000021399",
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "4",
+      "referenceId": "Y407000021399",
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "5",
+      "referenceId": "Y407000021399",
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "6",
+      "referenceId": "Y407000021399",
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    }
   ]
 }
