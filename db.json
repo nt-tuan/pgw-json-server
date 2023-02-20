@@ -124,6 +124,74 @@
       "status": "Thành công"
     }
   ],
+  "collecting-orders": [
+    {
+      "id": "1",
+      "fee": 716000,
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "2",
+      "fee": 716000,
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "3",
+      "fee": 716000,
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "4",
+      "fee": 716000,
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "5",
+      "fee": 716000,
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    },
+    {
+      "id": "6",
+      "fee": 716000,
+      "amount": 1554000,
+      "studentCode": "HS0000001",
+      "studentName": "Huynh Van Y Chang",
+      "schoolCode": "Vin001",
+      "description": "Đóng học phí",
+      "createdDate": "14/02/2023",
+      "status": "Thành công"
+    }
+  ],
   "merchants": [
     {
       "code": "EDU0001",
@@ -143,8 +211,14 @@
         "fullName": "Jane Smith",
         "phone": "0123456789"
       },
-      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
-      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "accountant": {
+        "fullName": "John Doe",
+        "phone": "0123456789"
+      },
+      "treasurer": {
+        "fullName": "Bob Johnson",
+        "phone": "0123456789"
+      },
       "payType": "DC",
       "bankAccounts": [
         {
@@ -180,8 +254,14 @@
         "fullName": "Jane Smith",
         "phone": "0123456789"
       },
-      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
-      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "accountant": {
+        "fullName": "John Doe",
+        "phone": "0123456789"
+      },
+      "treasurer": {
+        "fullName": "Bob Johnson",
+        "phone": "0123456789"
+      },
       "payType": "DC",
       "bankAccounts": [
         {
@@ -199,7 +279,6 @@
         "/path/to/certificate2"
       ]
     },
-
     {
       "code": "EDU0003",
       "displayName": "THCS Đinh Tiên Hoàng",
@@ -218,8 +297,14 @@
         "fullName": "Jane Smith",
         "phone": "0123456789"
       },
-      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
-      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "accountant": {
+        "fullName": "John Doe",
+        "phone": "0123456789"
+      },
+      "treasurer": {
+        "fullName": "Bob Johnson",
+        "phone": "0123456789"
+      },
       "payType": "DC",
       "bankAccounts": [
         {
@@ -255,8 +340,14 @@
         "fullName": "Jane Smith",
         "phone": "0123456789"
       },
-      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
-      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "accountant": {
+        "fullName": "John Doe",
+        "phone": "0123456789"
+      },
+      "treasurer": {
+        "fullName": "Bob Johnson",
+        "phone": "0123456789"
+      },
       "payType": "DC",
       "bankAccounts": [
         {
@@ -292,8 +383,14 @@
         "fullName": "Jane Smith",
         "phone": "0123456789"
       },
-      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
-      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "accountant": {
+        "fullName": "John Doe",
+        "phone": "0123456789"
+      },
+      "treasurer": {
+        "fullName": "Bob Johnson",
+        "phone": "0123456789"
+      },
       "payType": "DC",
       "bankAccounts": [
         {
