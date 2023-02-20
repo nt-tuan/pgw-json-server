@@ -126,6 +126,7 @@
   ],
   "merchants": [
     {
+      "id": "1",
       "code": "EDU0001",
       "displayName": "THCS Phan Đình Phùng",
       "legalName": "Trường Trung Học Cơ Sở Phan Đình Phùng",
@@ -163,6 +164,7 @@
       ]
     },
     {
+      "id": "2",
       "code": "EDU0002",
       "displayName": "THCS Lý Tự Trọng",
       "legalName": "Trường Trung Học Cơ Sở Lý Tự Trọng",
@@ -201,6 +203,7 @@
     },
 
     {
+      "id": "3",
       "code": "EDU0003",
       "displayName": "THCS Đinh Tiên Hoàng",
       "legalName": "Trường Trung Học Cơ Sở Đinh Tiên Hoàng",
@@ -238,6 +241,7 @@
       ]
     },
     {
+      "id": "4",
       "code": "EDU0004",
       "displayName": "THCS Trần Bình Trọng",
       "legalName": "Trường Trung Học Cơ Sở Trần Bình Trọng",
@@ -275,6 +279,7 @@
       ]
     },
     {
+      "id": "5",
       "code": "EDU0005",
       "displayName": "THCS Nguyễn Chi Thanh",
       "legalName": "Trường Trung Học Cơ Sở Nguyễn Chi Thanh",
