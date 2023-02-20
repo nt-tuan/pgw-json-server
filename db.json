@@ -123,5 +123,193 @@
       "createdDate": "14/02/2023",
       "status": "Thành công"
     }
+  ],
+  "merchants": [
+    {
+      "code": "EDU0001",
+      "displayName": "THCS Phan Đình Phùng",
+      "legalName": "Trường Trung Học Cơ Sở Phan Đình Phùng",
+      "email": "merchant@example.com",
+      "phone": "0123456789",
+      "serviceType": "EDU",
+      "eduType": "HIGH_SCHOOL",
+      "address": {
+        "street": "123 ABC",
+        "ward": "Phường 1",
+        "district": "Quận 1",
+        "city": "TP.HCM"
+      },
+      "legalRepresentative": {
+        "fullName": "Jane Smith",
+        "phone": "0123456789"
+      },
+      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
+      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "payType": "DC",
+      "bankAccounts": [
+        {
+          "bankName": "Sacombank",
+          "number": "123456789",
+          "cusName": "Acme Corp",
+          "branch": "Downtown Branch",
+          "applyDate": "2022-01-01"
+        }
+      ],
+      "taxCode": "123-45-6789",
+      "businessRegNumber": "123456789",
+      "businessRegCertificatePaths": [
+        "/path/to/certificate1",
+        "/path/to/certificate2"
+      ]
+    },
+    {
+      "code": "EDU0002",
+      "displayName": "THCS Lý Tự Trọng",
+      "legalName": "Trường Trung Học Cơ Sở Lý Tự Trọng",
+      "email": "merchant@example.com",
+      "phone": "0123456789",
+      "serviceType": "EDU",
+      "eduType": "HIGH_SCHOOL",
+      "address": {
+        "street": "456 ABC",
+        "ward": "Phường 1",
+        "district": "Quận 1",
+        "city": "TP.HCM"
+      },
+      "legalRepresentative": {
+        "fullName": "Jane Smith",
+        "phone": "0123456789"
+      },
+      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
+      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "payType": "DC",
+      "bankAccounts": [
+        {
+          "bankName": "Sacombank",
+          "number": "123456789",
+          "cusName": "Acme Corp",
+          "branch": "Downtown Branch",
+          "applyDate": "2022-01-01"
+        }
+      ],
+      "taxCode": "123-45-6789",
+      "businessRegNumber": "123456789",
+      "businessRegCertificatePaths": [
+        "/path/to/certificate1",
+        "/path/to/certificate2"
+      ]
+    },
+
+    {
+      "code": "EDU0003",
+      "displayName": "THCS Đinh Tiên Hoàng",
+      "legalName": "Trường Trung Học Cơ Sở Đinh Tiên Hoàng",
+      "email": "merchant@example.com",
+      "phone": "0123456789",
+      "serviceType": "EDU",
+      "eduType": "HIGH_SCHOOL",
+      "address": {
+        "street": "123 ABC",
+        "ward": "Phường 1",
+        "district": "Quận 1",
+        "city": "TP.HCM"
+      },
+      "legalRepresentative": {
+        "fullName": "Jane Smith",
+        "phone": "0123456789"
+      },
+      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
+      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "payType": "DC",
+      "bankAccounts": [
+        {
+          "bankName": "Sacombank",
+          "number": "123456789",
+          "cusName": "Acme Corp",
+          "branch": "Downtown Branch",
+          "applyDate": "2022-01-01"
+        }
+      ],
+      "taxCode": "123-45-6789",
+      "businessRegNumber": "123456789",
+      "businessRegCertificatePaths": [
+        "/path/to/certificate1",
+        "/path/to/certificate2"
+      ]
+    },
+    {
+      "code": "EDU0004",
+      "displayName": "THCS Trần Bình Trọng",
+      "legalName": "Trường Trung Học Cơ Sở Trần Bình Trọng",
+      "email": "merchant@example.com",
+      "phone": "0123456789",
+      "serviceType": "EDU",
+      "eduType": "HIGH_SCHOOL",
+      "address": {
+        "street": "456 ABC",
+        "ward": "Phường 1",
+        "district": "Quận 1",
+        "city": "TP.HCM"
+      },
+      "legalRepresentative": {
+        "fullName": "Jane Smith",
+        "phone": "0123456789"
+      },
+      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
+      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "payType": "DC",
+      "bankAccounts": [
+        {
+          "bankName": "Sacombank",
+          "number": "123456789",
+          "cusName": "Acme Corp",
+          "branch": "Downtown Branch",
+          "applyDate": "2022-01-01"
+        }
+      ],
+      "taxCode": "123-45-6789",
+      "businessRegNumber": "123456789",
+      "businessRegCertificatePaths": [
+        "/path/to/certificate1",
+        "/path/to/certificate2"
+      ]
+    },
+    {
+      "code": "EDU0005",
+      "displayName": "THCS Nguyễn Chi Thanh",
+      "legalName": "Trường Trung Học Cơ Sở Nguyễn Chi Thanh",
+      "email": "merchant@example.com",
+      "phone": "0123456789",
+      "serviceType": "EDU",
+      "eduType": "HIGH_SCHOOL",
+      "address": {
+        "street": "456 ABC",
+        "ward": "Phường 1",
+        "district": "Quận 1",
+        "city": "TP.HCM"
+      },
+      "legalRepresentative": {
+        "fullName": "Jane Smith",
+        "phone": "0123456789"
+      },
+      "accountant": { "fullName": "John Doe", "phone": "0123456789" },
+      "treasurer": { "fullName": "Bob Johnson", "phone": "0123456789" },
+      "payType": "DC",
+      "bankAccounts": [
+        {
+          "bankName": "Sacombank",
+          "number": "123456789",
+          "cusName": "Acme Corp",
+          "branch": "Downtown Branch",
+          "applyDate": "2022-01-01"
+        }
+      ],
+      "taxCode": "123-45-6789",
+      "businessRegNumber": "123456789",
+      "businessRegCertificatePaths": [
+        "/path/to/certificate1",
+        "/path/to/certificate2"
+      ]
+    }
   ]
 }
