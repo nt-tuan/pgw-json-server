@@ -199,5 +199,29 @@
       },
       "status": "INACTIVE"
     }
+  ],
+  "collecting-orders": [
+    {
+      "createdTime": "14/02/2023",
+      "merchantOrderCode": "13245342",
+      "amount": 716000,
+      "description": "Đóng học phí",
+      "merchantResponseDateTime": "14/02/2023",
+      "id": "345346456456",
+      "collectingOrderStatus": "SUCCESS",
+      "transactionStatus": "SUCCESS",
+      "YoPid": "345346456456"
+    },
+    {
+      "createdTime": "14/02/2023",
+      "merchantOrderCode": "13245342",
+      "amount": 716000,
+      "description": "Đóng học phí",
+      "merchantResponseDateTime": "14/02/2023",
+      "id": "345346457456",
+      "collectingOrderStatus": "SUCCESS",
+      "transactionStatus": "SUCCESS",
+      "YoPid": "345346456456"
+    }
   ]
 }
